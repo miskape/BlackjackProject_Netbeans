@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="86">
+        <file>
+            <url>src/blackjackproject/TESTIBetaBlackjack.java</url>
+            <bookmark id="3">
+                <name/>
+                <line>39</line>
+                <key/>
+            </bookmark>
+            <bookmark id="5">
+                <name/>
+                <line>43</line>
+                <key/>
+            </bookmark>
+            <bookmark id="6">
+                <name/>
+                <line>44</line>
+                <key/>
+            </bookmark>
+            <bookmark id="2">
+                <name/>
+                <line>49</line>
+                <key/>
+            </bookmark>
+            <bookmark id="4">
+                <name/>
+                <line>51</line>
+                <key/>
+            </bookmark>
+            <bookmark id="28">
+                <name/>
+                <line>85</line>
+                <key/>
+            </bookmark>
+            <bookmark id="19">
+                <name/>
+                <line>88</line>
+                <key/>
+            </bookmark>
+            <bookmark id="25">
+                <name/>
+                <line>89</line>
+                <key/>
+            </bookmark>
+            <bookmark id="26">
+                <name/>
+                <line>90</line>
+                <key/>
+            </bookmark>
+            <bookmark id="27">
+                <name/>
+                <line>92</line>
+                <key/>
+            </bookmark>
+            <bookmark id="29">
+                <name/>
+                <line>105</line>
+                <key/>
+            </bookmark>
+            <bookmark id="30">
+                <name/>
+                <line>110</line>
+                <key/>
+            </bookmark>
+            <bookmark id="13">
+                <name/>
+                <line>136</line>
+                <key/>
+            </bookmark>
+            <bookmark id="1">
+                <name/>
+                <line>140</line>
+                <key/>
+            </bookmark>
+            <bookmark id="17">
+                <name/>
+                <line>144</line>
+                <key/>
+            </bookmark>
+            <bookmark id="40">
+                <name/>
+                <line>221</line>
+                <key/>
+            </bookmark>
+            <bookmark id="15">
+                <name/>
+                <line>228</line>
+                <key/>
+            </bookmark>
+            <bookmark id="41">
+                <name/>
+                <line>229</line>
+                <key/>
+            </bookmark>
+            <bookmark id="42">
+                <name/>
+                <line>238</line>
+                <key/>
+            </bookmark>
+            <bookmark id="49">
+                <name/>
+                <line>251</line>
+                <key/>
+            </bookmark>
+            <bookmark id="50">
+                <name/>
+                <line>260</line>
+                <key/>
+            </bookmark>
+            <bookmark id="14">
+                <name/>
+                <line>269</line>
+                <key/>
+            </bookmark>
+            <bookmark id="7">
+                <name/>
+                <line>307</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/blackjackproject/DeltaTestiBlackjack.java</url>
+            <bookmark id="55">
+                <name/>
+                <line>24</line>
+                <key/>
+            </bookmark>
+            <bookmark id="56">
+                <name/>
+                <line>28</line>
+                <key/>
+            </bookmark>
+            <bookmark id="57">
+                <name/>
+                <line>29</line>
+                <key/>
+            </bookmark>
+            <bookmark id="53">
+                <name/>
+                <line>35</line>
+                <key/>
+            </bookmark>
+            <bookmark id="54">
+                <name/>
+                <line>36</line>
+                <key/>
+            </bookmark>
+            <bookmark id="58">
+                <name/>
+                <line>113</line>
+                <key/>
+            </bookmark>
+            <bookmark id="59">
+                <name/>
+                <line>282</line>
+                <key/>
+            </bookmark>
+            <bookmark id="52">
+                <name/>
+                <line>294</line>
+                <key/>
+            </bookmark>
+            <bookmark id="51">
+                <name/>
+                <line>294</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/blackjackproject/LoppuversioBlackjack.java</url>
+            <bookmark id="61">
+                <name/>
+                <line>74</line>
+                <key/>
+            </bookmark>
+            <bookmark id="79">
+                <name/>
+                <line>96</line>
+                <key/>
+            </bookmark>
+            <bookmark id="81">
+                <name/>
+                <line>102</line>
+                <key/>
+            </bookmark>
+            <bookmark id="80">
+                <name/>
+                <line>103</line>
+                <key/>
+            </bookmark>
+            <bookmark id="68">
+                <name/>
+                <line>158</line>
+                <key/>
+            </bookmark>
+            <bookmark id="66">
+                <name/>
+                <line>161</line>
+                <key/>
+            </bookmark>
+            <bookmark id="62">
+                <name/>
+                <line>179</line>
+                <key/>
+            </bookmark>
+            <bookmark id="63">
+                <name/>
+                <line>213</line>
+                <key/>
+            </bookmark>
+            <bookmark id="73">
+                <name/>
+                <line>243</line>
+                <key/>
+            </bookmark>
+            <bookmark id="71">
+                <name/>
+                <line>249</line>
+                <key/>
+            </bookmark>
+            <bookmark id="64">
+                <name/>
+                <line>254</line>
+                <key/>
+            </bookmark>
+            <bookmark id="72">
+                <name/>
+                <line>294</line>
+                <key/>
+            </bookmark>
+            <bookmark id="67">
+                <name/>
+                <line>309</line>
+                <key/>
+            </bookmark>
+            <bookmark id="76">
+                <name/>
+                <line>328</line>
+                <key/>
+            </bookmark>
+            <bookmark id="69">
+                <name/>
+                <line>334</line>
+                <key/>
+            </bookmark>
+            <bookmark id="70">
+                <name/>
+                <line>389</line>
+                <key/>
+            </bookmark>
+            <bookmark id="74">
+                <name/>
+                <line>458</line>
+                <key/>
+            </bookmark>
+            <bookmark id="75">
+                <name/>
+                <line>519</line>
+                <key/>
+            </bookmark>
+            <bookmark id="77">
+                <name/>
+                <line>561</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/blackjackproject/FinalVersionblackjack.java</url>
+            <bookmark id="84">
+                <name/>
+                <line>167</line>
+                <key/>
+            </bookmark>
+            <bookmark id="85">
+                <name/>
+                <line>294</line>
+                <key/>
+            </bookmark>
+            <bookmark id="82">
+                <name/>
+                <line>404</line>
+                <key/>
+            </bookmark>
+            <bookmark id="86">
+                <name/>
+                <line>412</line>
+                <key/>
+            </bookmark>
+            <bookmark id="83">
+                <name/>
+                <line>451</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/blackjackproject/BlackjackProject.java</url>
+            <bookmark id="38">
+                <name/>
+                <line>75</line>
+                <key/>
+            </bookmark>
+            <bookmark id="10">
+                <name/>
+                <line>75</line>
+                <key/>
+            </bookmark>
+            <bookmark id="11">
+                <name/>
+                <line>75</line>
+                <key/>
+            </bookmark>
+            <bookmark id="12">
+                <name/>
+                <line>75</line>
+                <key/>
+            </bookmark>
+            <bookmark id="32">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+            <bookmark id="33">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+            <bookmark id="34">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+            <bookmark id="35">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+            <bookmark id="36">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+            <bookmark id="37">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+            <bookmark id="31">
+                <name/>
+                <line>115</line>
+                <key/>
+            </bookmark>
+            <bookmark id="60">
+                <name/>
+                <line>174</line>
+                <key/>
+            </bookmark>
+            <bookmark id="78">
+                <name/>
+                <line>229</line>
+                <key/>
+            </bookmark>
+            <bookmark id="22">
+                <name/>
+                <line>246</line>
+                <key/>
+            </bookmark>
+            <bookmark id="23">
+                <name/>
+                <line>250</line>
+                <key/>
+            </bookmark>
+            <bookmark id="9">
+                <name/>
+                <line>294</line>
+                <key/>
+            </bookmark>
+            <bookmark id="16">
+                <name/>
+                <line>300</line>
+                <key/>
+            </bookmark>
+            <bookmark id="21">
+                <name/>
+                <line>310</line>
+                <key/>
+            </bookmark>
+            <bookmark id="20">
+                <name/>
+                <line>318</line>
+                <key/>
+            </bookmark>
+            <bookmark id="39">
+                <name/>
+                <line>331</line>
+                <key/>
+            </bookmark>
+            <bookmark id="48">
+                <name/>
+                <line>409</line>
+                <key/>
+            </bookmark>
+            <bookmark id="8">
+                <name/>
+                <line>450</line>
+                <key/>
+            </bookmark>
+            <bookmark id="43">
+                <name/>
+                <line>450</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>src/blackjackproject/TESTICharlieBlackJack.java</url>
+            <bookmark id="44">
+                <name/>
+                <line>212</line>
+                <key/>
+            </bookmark>
+            <bookmark id="47">
+                <name/>
+                <line>246</line>
+                <key/>
+            </bookmark>
+            <bookmark id="24">
+                <name/>
+                <line>284</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group/>
+    </open-files>
+</project-private>
